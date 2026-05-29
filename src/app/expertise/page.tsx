@@ -23,7 +23,7 @@ export default function ExpertisePage() {
       <section className="section-shell grid gap-6 pb-24 lg:grid-cols-[1fr_0.9fr]">
         <Card className="overflow-hidden p-3">
           <div className="relative min-h-[520px] overflow-hidden rounded-[1.35rem] bg-[#fffef8]">
-            <Image src="/images/pic11.jpg" alt="Creative expertise visual" fill loading="lazy" sizes="(min-width: 1024px) 52vw, 100vw" className="object-cover" />
+            <Image src="/images/pic11.webp" alt="Creative expertise visual" fill loading="lazy" sizes="(min-width: 1024px) 52vw, 100vw" className="object-cover" />
           </div>
         </Card>
         <div className="grid gap-5">

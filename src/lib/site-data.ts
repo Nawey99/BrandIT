@@ -63,35 +63,35 @@ export const profileSections = [
   },
 ];
 
-export const expertiseImages = ["/images/Logo 2.png", "/images/Logo 1.jpg", "/images/Logo 3.png", "/images/pic06.jpg", "/images/Logo 4.jpg"];
+export const expertiseImages = ["/images/Logo 2.webp", "/images/Logo 1.webp", "/images/Logo 3.webp", "/images/pic06.webp", "/images/Logo 4.webp"];
 
 export const galleryGroups = [
   {
     title: "Social Media Banners",
-    images: ["/images/Bethany 10.jpg", "/images/Bethany 8.jpg", "/images/Bethany 9.jpg", "/images/Social 1.jpg", "/images/Bethany 5.jpg", "/images/Social 2.jpg"],
+    images: ["/images/Bethany 10.webp", "/images/Bethany 8.webp", "/images/Bethany 9.webp", "/images/Social 1.webp", "/images/Bethany 5.webp", "/images/Social 2.webp"],
   },
   {
     title: "Posters",
-    images: ["/images/Banner 2.jpg", "/images/Banner 3.jpg", "/images/Poster 2.jpg", "/images/poster.jpg"],
+    images: ["/images/Banner 2.webp", "/images/Banner 3.webp", "/images/Poster 2.webp", "/images/poster.webp"],
   },
   {
     title: "Invitation Cards",
-    images: ["/images/Card 2.png"],
+    images: ["/images/Card 2.webp"],
   },
   {
     title: "Illustrations",
-    images: ["/images/Bethany.jpg", "/images/Bethany 5.jpg", "/images/Bethany 2.jpg"],
+    images: ["/images/Bethany.webp", "/images/Bethany 5.webp", "/images/Bethany 2.webp"],
   },
   {
     title: "Business Cards",
-    images: ["/images/Business card.jpg", "/images/Business card 2.png", "/images/Business card Back Morkato.jpg", "/images/Business card front.jpg", "/images/Business card 3.png"],
+    images: ["/images/Business card.webp", "/images/Business card 2.webp", "/images/Business card Back Morkato.webp", "/images/Business card front.webp", "/images/Business card 3.webp"],
   },
   {
     title: "Roll-ups",
-    images: ["/images/rollup 2.jpg", "/images/ROLLUPS.jpg"],
+    images: ["/images/rollup 2.webp", "/images/ROLLUPS.webp"],
   },
   {
     title: "Certificates",
-    images: ["/images/Certificate.jpg", "/images/certificate 2.jpg"],
+    images: ["/images/Certificate.webp", "/images/certificate 2.webp"],
   },
 ];

@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title: "ODA Bekele | Creative Design Studio",
     description:
       "Design is a true delight. Explore brand identities, campaigns, and creative systems by ODA Bekele.",
-    images: ["/images/pic10.jpg"],
+    images: ["/images/pic10.webp"],
     type: "website",
   },
 };

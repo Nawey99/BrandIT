@@ -29,7 +29,7 @@ export default function ProfilePage() {
             <div className="absolute -inset-5 rounded-[2.3rem] border border-[#801422]/18 bg-[#801422]/6" />
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] border border-[#231f20]/12 bg-[#fffef8] p-3 shadow-[0_38px_110px_rgba(35,31,32,0.16)]">
               <Image
-                src="/images/pic10.jpg"
+                src="/images/pic10.webp"
                 alt="Oda Bekele portrait"
                 fill
                 loading="lazy"

@@ -38,7 +38,7 @@ export default function GalleryPage() {
           <PaperPlaneMark className="absolute -right-20 -top-16 z-10 h-52 w-80 opacity-40" />
           <div className="relative h-[360px] overflow-hidden rounded-[1.45rem] bg-[#fffef8]">
             <Image
-              src="/images/Bethany 10.jpg"
+              src="/images/Bethany 10.webp"
               alt="Featured gallery design"
               fill
               priority

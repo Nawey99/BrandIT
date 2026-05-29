@@ -56,51 +56,51 @@ const services = [
 const projects = [
   {
     title: "Arkena Coffee",
-    image: "/images/pic01.jpg",
+    image: "/images/pic01.webp",
     role: "Digital platform and brand visibility",
     text: "A specialized marketing network for the coffee industry, connecting exporters, importers, producers, and buyers while keeping them updated on the coffee market.",
     tags: ["Brand system", "Coffee market", "Digital visibility"],
-    gallery: ["/images/coffee 1.jpg", "/images/coffee 4.jpg", "/images/coffee 8.jpg"],
+    gallery: ["/images/coffee 1.webp", "/images/coffee 4.webp", "/images/coffee 8.webp"],
   },
   {
     title: "Cape Hotel",
-    image: "/images/pic02.jpg",
+    image: "/images/pic02.webp",
     role: "Hospitality identity",
     text: "A hotel identity inspired by Cape Town and mountain forms, merging rugged natural texture with bold typography for an adventurous hospitality brand.",
     tags: ["Logo", "Hospitality", "Guidelines"],
-    gallery: ["/images/Hotel.jpg", "/images/Hotel 5.jpg", "/images/Hotel 9.jpg"],
+    gallery: ["/images/Hotel.webp", "/images/Hotel 5.webp", "/images/Hotel 9.webp"],
   },
   {
     title: "Bethany",
-    image: "/images/pic03.jpg",
+    image: "/images/pic03.webp",
     role: "Marketing partner and brand alignment",
     text: "Local marketing partnership for an international NGO focused on family-based care and family empowerment.",
     tags: ["Digital marketing", "NGO", "Promotional items"],
-    gallery: ["/images/Bethany.jpg", "/images/Bethany 5.jpg", "/images/Bethany 9.jpg"],
+    gallery: ["/images/Bethany.webp", "/images/Bethany 5.webp", "/images/Bethany 9.webp"],
   },
   {
     title: "Solidaridad",
-    image: "/images/pic04.jpg",
+    image: "/images/pic04.webp",
     role: "16 SME brand identities",
     text: "A project creating expressive logos and brand elements for leather-producing SMEs supported by Solidaridad Networks.",
     tags: ["SME identities", "Leather sector", "Social video"],
-    gallery: ["/images/Sol 1.png", "/images/Sol 4.png", "/images/Sol 8.png"],
+    gallery: ["/images/Sol 1.webp", "/images/Sol 4.webp", "/images/Sol 8.webp"],
   },
   {
     title: "Smile Cake & Cookies",
-    image: "/images/pic05.jpg",
+    image: "/images/pic05.webp",
     role: "Bakery identity",
     text: "A joyful identity built to make the viewer smile, using color and form to reflect the baker's personality and the happiness of sweets.",
     tags: ["Logo", "Color system", "Packaging feel"],
-    gallery: ["/images/Smile mockup.jpg", "/images/pic05.jpg", "/images/Social 1.jpg"],
+    gallery: ["/images/Smile mockup.webp", "/images/pic05.webp", "/images/Social 1.webp"],
   },
   {
     title: "Care Land General Hospital",
-    image: "/images/pic08.jpg",
+    image: "/images/pic08-jpg.webp",
     role: "Healthcare brand guidelines",
     text: "A collaborative guideline system translating the hospital's vision, logo, and color palette into a cohesive brand framework.",
     tags: ["Healthcare", "Guidelines", "Brand alignment"],
-    gallery: ["/images/Options.jpg", "/images/Options-05.jpg", "/images/Options-08.jpg"],
+    gallery: ["/images/Options.webp", "/images/Options-05.webp", "/images/Options-08.webp"],
   },
 ];
 
@@ -280,7 +280,7 @@ function EdenInspiredImageBlocks() {
         <Card className="overflow-hidden p-4">
           <div className="relative aspect-[515/334] overflow-hidden rounded-[1.5rem] bg-[#fffef8]">
             <Image
-              src="/images/Business card front.jpg"
+              src="/images/Business card front.webp"
               alt="Editorial brand collateral preview"
               fill
               loading="lazy"
@@ -374,7 +374,7 @@ function FloatingVisual() {
       <div className="absolute inset-x-8 top-8 h-[78%] rounded-[3rem] bg-[#231f20] shadow-[0_40px_90px_rgba(35,31,32,0.18)]" />
       <div className="image-sheen absolute inset-x-0 top-0 h-[72%] overflow-hidden rounded-[2.4rem] border border-[#231f20]/10 bg-[#fffef8]/30 shadow-[0_35px_90px_rgba(35,31,32,0.14)]">
         <Image
-          src="/images/pic10.jpg"
+          src="/images/pic10.webp"
           alt="Oda Bekele creative portrait"
           fill
           className="object-cover"
